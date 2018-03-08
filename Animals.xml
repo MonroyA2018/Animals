@@ -1,0 +1,110 @@
+<Mammals>
+  <Whales>
+    <killer whale>
+     <Alan the killer whale, 12000lbs, 10 years old></Alan the killer whale, 12000lbs, 10 years old>
+     <Lisa the killer whale, 6000lbs, 9 years old></Lisa the killer whale, 6000lbs, 9 years old>
+
+    </killer whale>
+    <humpback whale>
+     <Dan the humpback whale, 55000lbs, 11 years old></Dan the humpback whale, 55000lbs, 11 years old>
+     <Oliver the humpback whale, 53000lbs, 10 years old></Oliver the humpback whale, 53000lbs, 10 years old>
+	</humpback whale>
+    <blue whale>
+     <Scott the blue whale, 230000lbs, 62 years old></Scott the blue whale, 230000lbs, 62 years old>
+     <Charles the blue whale, 261000lbs, 63 years old></Charles the blue whale, 261000lbs, 63 years old>     
+	</blue whale>
+  </Whales>
+    <Dogs>
+      <german shepherd>
+       <Mau the german shepherd, 66lbs, 12 years old></Mau the german shepherd, 66lbs, 12 years old>
+       <Lisy the german shepherd, 54lbs, 10 years old></Lisy the german shepherd, 54lbs, 10 years old>
+	</german shepherd>
+      <rottweiler>
+       <Alison the rottweiler, 62lbs, 10 years old></Alison the rottweiler, 62lbs, 10 years old>
+       <Luke the rottweiler, 77lbs, 9 years old></Luke the rottweiler, 77lbs, 9 years old>
+	</rottweiler>
+      <beagle>
+       <Randy the beagle, 22lbs, 8 years old></Randy the beagle, 22lbs, 8 years old>
+       <Hannah the beagle, 25lbs, 7 years old></Hannah the beagle, 25lbs, 7 years old>
+	</beagle>
+    </Dogs>
+     <Cats>
+      <persian cat>
+       <Luna the persian cat, 23lbs, 11 years old></Luna the persian cat, 23lbs, 11 years old>
+       <Mila the persian cat, 22lbs, 10 years old></Mila te persian cat, 22lbs, 10 years old>
+	</persian cat>
+      <ragdoll>
+       <Jordan the ragdoll, 32lbs, 9 years old></Jordan the ragdoll, 32lbs, 9 years old>
+       <John the ragdoll, 34lbs, 10 years old></John the ragdoll, 34lbs, 10 years old>
+	</ragdoll>
+      <maine coon>
+       <Lina the maine coon, 12lbs, 3 years old></Lina the maine coon, 12lbs, 3 years old>
+       <Roni the maine coon, 13lbs, 4 years old></Roni the maine coon, 13lbs, 4 years old>
+	</maine coon>
+      </Cats> 
+
+</Mammals>
+
+<Fishes>
+ <Guppy>
+  <Lin the guppy, .5oz, 1 year old></Lin the guppy, .5oz, 1 year old>
+  <Ruff the guppy, .7oz, 1 year old></Ruff the guppy, .7oz, 1 year old>
+   </Guppy>
+ <Common carp>
+  <Ron the common carp, 31lbs, 3 years old></Ron the common carp, 31lbs, 3 years old>
+  <Lun the common carp, 30lbs, 4 years old></Lun the common carp, 30lbs, 4 years old>
+   </Common carp>
+ <Catfish>
+  <Wis the catfish, 368lbs, 6 years old></Wis the catfish, 368lbs, 6 years old>
+  <Curt the catfish, 375lbs, 5 years old></Curt the catfish, 375lbs, 5 years old>
+   </Catfish>
+</Fishes>
+
+<Birds>
+ <Parrot>
+  <Cuni the parrot,Â2.8lbs, 32 years old></Cuni the parrot, 2.8lbs, 32 years old>
+  <Loni the parrot, 3lbs, 33 years old></Loni the parrot, 3lbs, 33 years old>
+   </Parrot>
+ <Hummingbird>
+  <Rusty the hummingbird, .071oz, 3 years old></Rusty the hummingbird, .071oz, 3 years old>
+  <Lucky the hummingbird, .073oz, 2 years old></Lucky the hummingbird, .073oz,2 years old>
+   </Hummingbird>
+ <Owl>
+  <Stan the owl, 1.4lbs, 6 years old></Stan the owl, 1.4lbs, 6 years old>
+  <Rodni the owl, 1.2lbs, 5 years old></Rodni the owl, 1.2lbs, 5 years old>
+   </Owl>
+ 
+</Birds>
+
+<Amphibians>
+ <Frog>
+  <Kermit the frog, .8oz, 8 years old></Kermit the frog, .8oz, 8 years old>
+  <Rooke the frog, .7oz, 9 years ol></Rooke the frog, 7oz, 9 years old>
+   </Frog>
+  <Salamander>
+   <Lunit the salamander, 1lbs, 2 yers old></Lunit the salamander, 1lbs, 2 years old>
+   <Carmi the salamander, .9oz, 1 year old></Carmi the salamander, .09oz, 1 year old>
+    </Salamander>
+  <Cacops>
+   <Ron the cacops, 23lbs, 3 years old></Ron the cacops, 23lbs, 3 years old>
+   <Star the cacops, 25lbs, 2 years old></Star the cacops, 25lbs, 2 years old>
+    </Cacops> 
+
+</Amphibians> 
+
+<Reptiles>
+ <Turtle>
+  <Nicolas the turtle, 120lbs, 15 years old></Nicolas the turtle, 120lbs, 15 years old>
+  <Nancy the turtle, 115lbs, 14 years old></Nancy the turtle, 115lbs, 14 years old>
+   </Turtle>
+ <Snakes>
+  <Lucy the snake, 5lbs, 4 years old></Lucy the snake, 5lbs, 4 years old>
+  <Milo the snake, 3lbs, 2 years old></Milo the snake, 3lbs, 2 years old>
+   </Snakes>
+ <Lizard>
+  <Stone the lizard, 7lbs, 5 years old></Stone the lizard, 7lbs, 5 years old>
+  <Rool the lizard, 4lbs, 3 years old></Rool the lizard, 4lbs, 3 years old>
+   </Lizard>
+
+</Reptiles>
+
